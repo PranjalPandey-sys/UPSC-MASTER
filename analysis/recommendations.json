@@ -1,0 +1,187 @@
+{
+  "for_fast_improvement": {
+    "description": "Best plans for students needing rapid gains in \u22646 months",
+    "plans": [
+      {
+        "plan_id": "Advanced_6months_8hours",
+        "score": 84.6,
+        "readiness": "Mains partially ready",
+        "coverage": 85.0,
+        "why_recommended": "Advanced \u00d7 6m \u00d7 8h = 1440h total. Advanced depth."
+      },
+      {
+        "plan_id": "Advanced_6months_6hours",
+        "score": 82.6,
+        "readiness": "Prelims ready + Mains partially ready",
+        "coverage": 80.0,
+        "why_recommended": "Advanced \u00d7 6m \u00d7 6h = 1080h total. Advanced depth."
+      },
+      {
+        "plan_id": "Intermediate_6months_8hours",
+        "score": 72.5,
+        "readiness": "Mains partially ready",
+        "coverage": 74.8,
+        "why_recommended": "Intermediate \u00d7 6m \u00d7 8h = 1440h total. Strong depth."
+      }
+    ]
+  },
+  "for_strong_foundation": {
+    "description": "Best plans for building deep, sustainable knowledge base",
+    "plans": [
+      {
+        "plan_id": "Intermediate_18months_8hours",
+        "score": 94.8,
+        "readiness": "Mains competitive (IFS/IPS range)",
+        "coverage": 87.1,
+        "why_recommended": "Intermediate \u00d7 18m \u00d7 8h. Full syllabus. 246 answer-writing days."
+      },
+      {
+        "plan_id": "Intermediate_18months_6hours",
+        "score": 94.2,
+        "readiness": "Mains competitive (IFS/IPS range)",
+        "coverage": 85.4,
+        "why_recommended": "Intermediate \u00d7 18m \u00d7 6h. Full syllabus. 246 answer-writing days."
+      },
+      {
+        "plan_id": "Intermediate_12months_8hours",
+        "score": 93.8,
+        "readiness": "Mains partially ready",
+        "coverage": 84.5,
+        "why_recommended": "Intermediate \u00d7 12m \u00d7 8h. Full syllabus. 124 answer-writing days."
+      }
+    ]
+  },
+  "for_full_preparation": {
+    "description": "Best plans for genuine competitive readiness (Prelims + Mains)",
+    "plans": [
+      {
+        "plan_id": "Advanced_18months_8hours",
+        "score": 99.6,
+        "readiness": "Fully competitive (IAS/IPS range)",
+        "coverage": 99,
+        "total_hours": 4320,
+        "why_recommended": "Advanced aspirant with 4320h total represents peak preparation. Prelims: ~90-95%. Mains: highly competitive. IAS rank in..."
+      },
+      {
+        "plan_id": "Advanced_18months_6hours",
+        "score": 98.8,
+        "readiness": "Fully competitive (IAS/IPS range)",
+        "coverage": 97.0,
+        "total_hours": 3240,
+        "why_recommended": "Advanced aspirant with 3240h total represents peak preparation. Prelims: ~90-95%. Mains: highly competitive. IAS rank in..."
+      },
+      {
+        "plan_id": "Advanced_12months_8hours",
+        "score": 98.4,
+        "readiness": "Mains partially ready \u2192 Approaching competitive",
+        "coverage": 96.0,
+        "total_hours": 2880,
+        "why_recommended": "Advanced aspirant with 2880h total represents peak preparation. Prelims: ~90-95%. Mains: highly competitive. IAS rank in..."
+      },
+      {
+        "plan_id": "Advanced_12months_6hours",
+        "score": 96.8,
+        "readiness": "Mains partially ready \u2192 Approaching competitive",
+        "coverage": 92.0,
+        "total_hours": 2160,
+        "why_recommended": "Advanced aspirant with 2160h total represents peak preparation. Prelims: ~90-95%. Mains: highly competitive. IAS rank in..."
+      },
+      {
+        "plan_id": "Advanced_18months_4hours",
+        "score": 96.8,
+        "readiness": "Mains partially ready \u2192 Approaching competitive",
+        "coverage": 92.0,
+        "total_hours": 2160,
+        "why_recommended": "Advanced aspirant with 2160h total represents peak preparation. Prelims: ~90-95%. Mains: highly competitive. IAS rank in..."
+      }
+    ]
+  },
+  "minimum_competitive": {
+    "Beginner": {
+      "minimum_timeline": "12 months",
+      "minimum_daily_hours": "6 hours",
+      "minimum_total_hours": 2160,
+      "rationale": "A Beginner needs at least 12 months \u00d7 6h/day (2160h total) to cover the full UPSC syllabus with adequate depth. Below this, Prelims probability drops below 40% and Mains is not viable. Beginners also need the ramp-up phase (months 1-2) which reduces effective hours by ~20%."
+    },
+    "Intermediate": {
+      "minimum_timeline": "12 months",
+      "minimum_daily_hours": "4 hours",
+      "minimum_total_hours": 1440,
+      "rationale": "Intermediates already have foundational knowledge. 12 months \u00d7 4h/day (1440h) is the minimum for Prelims reliability (70-80% probability) and basic Mains attempt. For IAS-level rank, push to 6h/day or 18 months \u00d7 4h/day."
+    },
+    "Advanced": {
+      "minimum_timeline": "6 months",
+      "minimum_daily_hours": "6 hours",
+      "minimum_total_hours": 1080,
+      "rationale": "Advanced aspirants with prior strong base can be competitive in 6 months \u00d7 6h/day (1080h). However, for IAS/IFS ranks, 12 months \u00d7 6h/day (2160h) is strongly recommended to cover answer writing quality, mock analysis, and current affairs depth."
+    }
+  },
+  "worst_combinations": [
+    {
+      "plan_id": "Beginner_3months_2hours",
+      "score": 20.6,
+      "total_hours": 180,
+      "readiness": "Not ready (awareness only)",
+      "why_problematic": "Only 180h total. 34.1% coverage. Weak depth. 13 critical limitations.",
+      "key_limitation": "Only 6 of 12 subjects covered \u2013 Ethics, IR, Indian Society, Governance, Internal Security, DM completely missing"
+    },
+    {
+      "plan_id": "Intermediate_3months_2hours",
+      "score": 27.0,
+      "total_hours": 180,
+      "readiness": "Not ready (awareness only)",
+      "why_problematic": "Only 180h total. 40.0% coverage. Basic depth. 11 critical limitations.",
+      "key_limitation": "Only 6 of 12 subjects covered \u2013 Ethics, IR, Indian Society, Governance, Internal Security, DM completely missing"
+    },
+    {
+      "plan_id": "Beginner_3months_4hours",
+      "score": 28.0,
+      "total_hours": 360,
+      "readiness": "Not ready",
+      "why_problematic": "Only 360h total. 34.1% coverage. Basic depth. 10 critical limitations.",
+      "key_limitation": "Only 6 of 12 subjects covered \u2013 Ethics, IR, Indian Society, Governance, Internal Security, DM completely missing"
+    },
+    {
+      "plan_id": "Beginner_3months_6hours",
+      "score": 28.0,
+      "total_hours": 540,
+      "readiness": "Prelims partially ready",
+      "why_problematic": "Only 540h total. 34.1% coverage. Basic depth. 10 critical limitations.",
+      "key_limitation": "Only 6 of 12 subjects covered \u2013 Ethics, IR, Indian Society, Governance, Internal Security, DM completely missing"
+    },
+    {
+      "plan_id": "Beginner_3months_8hours",
+      "score": 34.0,
+      "total_hours": 720,
+      "readiness": "Prelims ready (borderline)",
+      "why_problematic": "Only 720h total. 34.1% coverage. Moderate depth. 9 critical limitations.",
+      "key_limitation": "Only 6 of 12 subjects covered \u2013 Ethics, IR, Indian Society, Governance, Internal Security, DM completely missing"
+    }
+  ],
+  "analyst_verdict": {
+    "brutal_truth": "UPSC is one of the most demanding examinations globally. The 2024 Prelims cutoff was ~92/200 (GS-I) for General category. To clear Prelims reliably, a student needs >1000 hours of quality study. To be competitive in Mains (rank <500), >2000 hours is the realistic baseline. No 3-month plan, regardless of hours, prepares a Beginner for actual selection. 2 hours/day plans are suitable ONLY for maintaining existing knowledge or as a warm-up phase.",
+    "what_most_students_underestimate": [
+      "UPSC tests application, not just recall \u2013 6h/day of passive reading \u2260 6h of active learning",
+      "Current affairs (newspaper + monthly compilation) consumes 30-45 min/day regardless of plan",
+      "Answer writing is a separate skill \u2013 minimum 3 months of dedicated practice needed for Mains",
+      "Revision cycles matter more than first-read coverage \u2013 3 revisions > 1 thorough read",
+      "The Optional subject (Mains Paper 5-6) is NOT covered in any of these 48 GS plans",
+      "CSAT (Prelims Paper 2) requires separate practice \u2013 especially for non-engineering students",
+      "Interview preparation is an entirely separate 30-60 day module after Mains result"
+    ],
+    "hidden_time_costs_not_in_plans": [
+      "Form filling, admit card downloads, centre verification: ~5-10 hours/year",
+      "Sick days, family commitments, travel: realistically 15-20% of planned days are disrupted",
+      "Decision fatigue from self-study without coaching: reduces quality by ~20% for Beginners",
+      "Current affairs compilation and linking to static syllabus: 1 extra hour/week minimum"
+    ],
+    "recommendation_for_system_designers": "Guide students to: (a) identify their level honestly before selecting a plan, (b) treat the 3-month plans as MODULE 1 of a longer journey, not standalone prep, (c) always prioritise 6h/day over 8h/day \u2013 beyond 7h, quality degrades rapidly, (d) the 12-month Intermediate/Advanced plan at 6h/day is the GOLD STANDARD combination for most serious aspirants."
+  },
+  "benchmark_hours": {
+    "prelims_ready_minimum": 600,
+    "prelims_competitive": 1000,
+    "mains_partial": 1200,
+    "mains_competitive": 2000,
+    "fully_competitive": 3000
+  }
+}

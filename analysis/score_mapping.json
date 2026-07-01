@@ -1,0 +1,290 @@
+{
+  "intermediate_12months_6hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "intermediate_12months_8hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "intermediate_18months_4hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "intermediate_18months_6hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "intermediate_18months_8hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "advanced_12months_4hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "advanced_12months_6hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "advanced_12months_8hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "advanced_18months_2hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "advanced_18months_4hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "advanced_18months_6hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "advanced_18months_8hours": {
+    "band": "elite",
+    "label": "\ud83c\udfc6 Elite",
+    "min": 90,
+    "max": 100
+  },
+  "beginner_12months_6hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "beginner_12months_8hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "beginner_18months_4hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "beginner_18months_6hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "beginner_18months_8hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "intermediate_12months_4hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "intermediate_18months_2hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "advanced_6months_6hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "advanced_6months_8hours": {
+    "band": "strong",
+    "label": "\u2b50 Strong",
+    "min": 75,
+    "max": 89
+  },
+  "beginner_6months_6hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "beginner_6months_8hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "beginner_12months_4hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "beginner_18months_2hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "intermediate_6months_4hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "intermediate_6months_6hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "intermediate_6months_8hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "intermediate_12months_2hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "advanced_6months_4hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "advanced_12months_2hours": {
+    "band": "moderate",
+    "label": "\u2705 Moderate",
+    "min": 55,
+    "max": 74
+  },
+  "beginner_6months_2hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "beginner_6months_4hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "beginner_12months_2hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "intermediate_3months_4hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "intermediate_3months_6hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "intermediate_3months_8hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "intermediate_6months_2hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "advanced_3months_2hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "advanced_3months_4hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "advanced_3months_6hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "advanced_3months_8hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "advanced_6months_2hours": {
+    "band": "basic",
+    "label": "\u26a0\ufe0f Basic",
+    "min": 35,
+    "max": 54
+  },
+  "beginner_3months_2hours": {
+    "band": "weak",
+    "label": "\u274c Weak",
+    "min": 0,
+    "max": 34
+  },
+  "beginner_3months_4hours": {
+    "band": "weak",
+    "label": "\u274c Weak",
+    "min": 0,
+    "max": 34
+  },
+  "beginner_3months_6hours": {
+    "band": "weak",
+    "label": "\u274c Weak",
+    "min": 0,
+    "max": 34
+  },
+  "beginner_3months_8hours": {
+    "band": "weak",
+    "label": "\u274c Weak",
+    "min": 0,
+    "max": 34
+  },
+  "intermediate_3months_2hours": {
+    "band": "weak",
+    "label": "\u274c Weak",
+    "min": 0,
+    "max": 34
+  }
+}
